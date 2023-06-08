@@ -1,0 +1,12 @@
+# package directories
+node_modules
+jspm_packages
+.vscode
+.dist
+.node_modules
+
+# Serverless directories
+.serverless
+
+# esbuild directories
+.esbuild
