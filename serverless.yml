@@ -10,7 +10,7 @@ custom:
     includeModules: true
 
 provider:
-  name: certificate
+  name: aws
   runtime: nodejs14.x
   region: sa-east-1
 
